@@ -6,7 +6,7 @@ import { NgForm } from '@angular/forms';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit {
-  title = 'partners-exersices';
+  title = 'partners-exercises';
 
   constructor() {}
 
